@@ -1,0 +1,1 @@
+// Os objetos devem ser criados na classe Main (neste exemplo é a classe poo)
